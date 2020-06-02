@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Design
 I planned to have 
@@ -8,6 +7,8 @@ When user clicks on each record, it calls a second component Pokemon.
 ### Pokemon details: Component to show the details : abilities, stats, moves 
 That record will be saved in the local storage
 ### History component will show items from the local storage instead. Shows only the top 5 items.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
