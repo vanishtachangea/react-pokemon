@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Project Design
+I planned to have 
+AllPokemon which shows the list of the Pokemons and the History section. 
+When user clicks on each record, it calls a second component Pokemon which will show the
+details of the abilities, stats, moves can appear in another component called PokemonDetails.
+The records from the API can be saved on the local storage. 
+
 ## Available Scripts
 
 In the project directory, you can run:
