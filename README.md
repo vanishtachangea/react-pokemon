@@ -1,4 +1,4 @@
-
+dev - Version 2
 ## Project Design
 I planned to have 
 ### AllPokemon component:   shows the list of the Pokemons. 
