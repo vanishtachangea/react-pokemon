@@ -1,12 +1,18 @@
 
 ## Project Design
 I planned to have 
-### AllPokemon component:   shows the list of the Pokemons. 
+### AllPokemon Component
+shows the list of the Pokemons. 
 When user clicks on each record, it calls a second component Pokemon.
-### Pokemon component: It is basically just a button which when clicked, will show the details of the abilities, stats, moves can appear in another component called PokemonDetails.
-### Pokemon details: Component to show the details : abilities, stats, moves 
+### Pokemon Component
+It is basically just a button which when clicked, will show the details of the abilities, stats, moves can appear in another component called PokemonDetails.
+### Pokemon details Component
+Component to show the details : abilities, stats, moves 
 That record will be saved in the local storage
-### History component will show items from the local storage instead. Shows only the top 5 items.
+### History component 
+will show items from the local storage instead. Shows only the top 5 items.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
