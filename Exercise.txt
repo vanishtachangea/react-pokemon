@@ -1,0 +1,30 @@
+Dear Candidate,
+
+ 
+
+It is almost time for your Technical Test!
+
+ 
+
+Firstly, please, ensure you have everything ready. Following you can find a reminder of what you need:
+
+You will need to have npm so you can create a React project with TypeScript (https://create-react-app.dev/docs/adding-typescript/#installation)
+You will need an editor like Visual Studio Code (https://code.visualstudio.com/)
+Internet access is required for the test
+ 
+
+Now, following you will find the instructions for the Test. Please, read carefully:
+
+ 
+
+Goal of the test is to build a React application (in Typescript) that shows a list of Pokemons and the details.
+You can find the prototype of the app in this link: https://xd.adobe.com/view/282d465a-abe9-46e3-4b98-338b7ca3b005-5e1c/
+You can find the API in this link: https://pokeapi.co/docs/v2.html
+In the All Pokemon list view, showing 20 is enough. Optional: adding pagination or loading more on scroll.
+History will show the list of the latest 5 visited Pokemons, please, store the history in the browser. Optional: If many tabs of the application are opened the history should be synced.
+Detail view will show only 3 elements from the Pokemon and show it in the columns as shown in the prototype.
+Once you have completed the Test, you can use a public repository like Github to upload the code, or you can just send the code in a compressed file.
+
+ 
+
+We will connect with you after the Test has been reviewed by our panel of experts.
